@@ -5,9 +5,9 @@ This repository contains a simple neural network implemented using PyTorch for d
 ## Model Architecture
 The neural network architecture is as follows:
 
-Input Layer: 28x28 (784 neurons)
-Hidden Layer: Customizable size, ReLU activation
-Output Layer: 10 neurons (corresponding to digits 0-9), softmax activation
+Input Layer: 28x28 (784 neurons), 
+Hidden Layer: Customizable size and ReLU activation, 
+Output Layer: 10 neurons (corresponding to digits 0-9)and softmax activation
 
 ## Prerequisites
 Python (>=3.6)
