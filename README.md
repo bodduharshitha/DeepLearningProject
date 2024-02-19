@@ -20,4 +20,11 @@ After training, the model achieves a classification accuracy of 95.3% on the MNI
 PyTorch developers and the community for providing an excellent deep learning framework.
 MNIST dataset creators for providing a valuable resource for digit recognition research.
 
-### Feel free to explore and modify the code to suit your needs. Contributions are welcome!
+Feel free to explore and modify the code to suit your needs. If you encounter any issues or have suggestions, please open an issue.
+
+## Getting Started
+Clone this repository:
+
+   ```bash
+   git clone https://github.com/bodduharshitha/DeepLearningProject.git
+   cd DeepLearningProject
